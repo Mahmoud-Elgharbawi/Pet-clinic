@@ -29,7 +29,7 @@ $stmt2 ->execute();
 <body id="owner">
     <div id="header"> <a href="#" id="logo"><img src="images/logo.png" width="310" height="114" alt=""></a>
         <ul class="navigation">
-            <li class="active"><a href="index.html">Home</a></li>
+            <li class="active"><a href="index.php">Home</a></li>
             <li><a href="products.php">PetMarket</a></li>
             <li><a href="evaluations.php">Evaluations</a></li>
             <li><a href="all_Doctors.php">Doctors</a></li>
